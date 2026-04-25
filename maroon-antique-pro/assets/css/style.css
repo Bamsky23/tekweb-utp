@@ -1,0 +1,7 @@
+body{background:#FDF6F0;font-family:Poppins}
+.navbar{background:#800000}
+.navbar-brand{color:#D4AF37!important;font-weight:bold}
+.product-card{border-radius:15px;transition:.3s}
+.product-card:hover{transform:translateY(-8px);box-shadow:0 10px 25px rgba(0,0,0,.2)}
+.btn-gold{background:#D4AF37;color:#fff;border:none}
+.btn-gold:hover{background:#b8962e}
